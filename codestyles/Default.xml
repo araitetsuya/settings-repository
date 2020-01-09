@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
   </HTMLCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="300" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
 </code_scheme>

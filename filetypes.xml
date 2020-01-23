@@ -2,8 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="hosts-Va-learning" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="hosts-Yo-learning" type="PLAIN_TEXT" />
+      <mapping ext="yo_learning" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

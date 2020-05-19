@@ -6,6 +6,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="hosts-Yo-learning" type="PLAIN_TEXT" />
+      <mapping ext="sandbox" type="PLAIN_TEXT" />
       <mapping ext="yo_learning" type="PLAIN_TEXT" />
       <mapping ext="pph" type="PLAIN_TEXT" />
     </extensionMap>

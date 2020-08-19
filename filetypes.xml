@@ -10,6 +10,7 @@
       <mapping pattern="header.css" type="PLAIN_TEXT" />
       <mapping ext="sandbox" type="PLAIN_TEXT" />
       <mapping ext="yo_learning" type="PLAIN_TEXT" />
+      <mapping ext="er" type="PLAIN_TEXT" />
       <mapping ext="pph" type="PLAIN_TEXT" />
       <mapping ext="yo_labosys_web" type="PLAIN_TEXT" />
     </extensionMap>
